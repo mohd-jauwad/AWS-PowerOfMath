@@ -1,4 +1,4 @@
 # Power Of Math - Amazon Web Services
 
 ## Lab Overview And Architecture
-![Architecture](./images/architecture.png)
+<img align="center" src="https://github.com/mohd-jauwad/AWS-PowerOfMath/blob/master/Images/architecture.png?raw=true">
