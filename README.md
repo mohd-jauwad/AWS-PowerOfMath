@@ -385,3 +385,5 @@ Make Sure to replace the "YOUR API GATEWAY ENDPOINT" in the code above with "Inv
  ![Alt Text](Images/op.png)
 
  ![Alt Text](Images/op1.png)
+
+ We have successfully created a serverless API using API Gateway, Lambda, and DynamoDB!
